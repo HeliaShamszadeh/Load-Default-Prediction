@@ -51,7 +51,7 @@ It includes the following features:
 
 ### Model Evaluation:
 - Evaluated models based on metrics like accuracy, precision, recall, F1-score, and ROC-AUC.
-- **XGBoost** achieved the highest performance with an AUC of 0.92 and accuracy of 84%.
+- **XGBoost** achieved the highest performance with an AUC of 0.89 and accuracy of 84%.
 
 ### Model Tuning:
 - Fine-tuned models using techniques like GridSearch and RandomizedSearch to optimize hyperparameters.
