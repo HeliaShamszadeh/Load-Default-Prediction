@@ -1,4 +1,4 @@
-# Load Default Prediction
+# Loan Default Prediction
 
 This project aims to build a machine learning model to predict loan defaults based on customer behavior and other key features. The goal is to identify high-risk individuals to assist banks and financial institutions in better decision-making when granting loans.
 
